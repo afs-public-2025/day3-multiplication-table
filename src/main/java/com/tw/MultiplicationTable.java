@@ -25,7 +25,7 @@ public class MultiplicationTable {
         return null;
     }
 
-    public String generateSingleExpression(int multiplicand, int multiplier) {
+    public String generateExpression(int multiplicand, int multiplier) {
         return null;
     }
 }
